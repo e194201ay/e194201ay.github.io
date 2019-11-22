@@ -1,0 +1,36 @@
+h1.a{
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+
+h1.b{
+    color: black;
+    text-align: center;
+    background-color: white;
+}
+
+
+h2.one{
+    color:gainsboro;
+    text-align: center;
+    background-color: dimgray;
+}
+
+h2.two{
+    color:dimgray;
+    text-align: center;
+    background-color: gainsboro;
+}
+
+p{
+    color: dimgray
+}
+
+div{
+    text-align: center
+}
+
+body{
+    background-image: url(../images/back.jpg)
+}
